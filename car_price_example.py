@@ -40,6 +40,7 @@ def load_and_explore_data(filename):
 
 
 def visualize_features(data):
+    
     """
     Create scatter plots for each feature vs Price
     
