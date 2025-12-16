@@ -1,0 +1,33 @@
+======================================================================
+ASSIGNMENT 6 PART 2 - AUTOGRADER FEEDBACK
+======================================================================
+
+Total Score: 4.40 / 10.00
+
+----------------------------------------------------------------------
+DETAILED BREAKDOWN
+----------------------------------------------------------------------
+
+Baseline (for submission): 4.00 / 4.00
+  ✓ You submitted files - great start!
+
+Code Functions: 0.00 / 3.00
+  - Syntax error in code: (unicode error) 'unicodeescape' codec can't decode bytes in position 0-1: malformed \N character escape (<unknown>, line 148)
+
+Visualization: 0.00 / 1.00
+  - Missing visualization PNG file
+
+Writeup: 0.40 / 2.00
+  - Question 2: Answer is too short (needs more detail)
+  - Question 3: Answer is too short (needs more detail)
+  - Question 4: Answer is too short (needs more detail)
+  - Question 5: Answer is too short (needs more detail)
+
+----------------------------------------------------------------------
+NEXT STEPS
+----------------------------------------------------------------------
+
+Please review the feedback above and complete missing items.
+You can resubmit for a better grade!
+
+Questions? See Mr. Berg during office hours or in class.
